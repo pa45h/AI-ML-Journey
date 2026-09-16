@@ -9,9 +9,9 @@ venv/
 env/
 
 # Python Fundamentals - local study material
-01_Python/*.pdf
-01_Python/*.PDF
+*.pdf
+*.PDF
 01_Python/*.ipynb
 
 # Jupyter checkpoints
-01_Python/.ipynb_checkpoints/
+*.ipynb_checkpoints/
