@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python Fundamentals - local study material
+01_Python/*.pdf
+01_Python/*.PDF
+01_Python/*.ipynb
+
+# Jupyter checkpoints
+01_Python/.ipynb_checkpoints/
